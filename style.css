@@ -1,0 +1,30 @@
+*{
+    background-color:rgb(245, 177, 214);
+}
+
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+      scale: 1.5;
+}
+
+.options {
+    display: flex;
+    justify-content: space-around;
+}
+
+.yesno {
+    scale: 3;
+    background-color: rgb(239, 132, 191);
+    border: none;    
+    color: aliceblue;
+    font-style: italic;
+    border-radius: 3.6px;
+    text-decoration: none;
+
+}
+
+.hidden {
+    display: none;
+}
